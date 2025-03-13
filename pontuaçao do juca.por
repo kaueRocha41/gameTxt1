@@ -3,7 +3,7 @@ programa {
     
 inteiro pontuacao
 
-escreva("qual foi a sua pontuação seu lixo inutil: ")
+escreva("qual foi a sua pontuação:")
 leia(pontuacao)
 
 se(pontuacao == 10 ou pontuacao < 10){
